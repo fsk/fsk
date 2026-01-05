@@ -1,84 +1,55 @@
-<h1 align="center">Furkan Sahin Kulaksiz</h1>
-<h3 align="center">Backend Engineer • Java & Distributed Systems</h3>
+# 🚀 [Adınız Soyadınız]
+### Senior Software Engineer | Problem Solver | Tech Architect
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fsk&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
-
-<p align="center">
-  <strong>Building backend systems that survive real traffic.</strong>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=[KULLANICI_ADINIZ]&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
 ---
 
-## ⚙️ Core Stack
+### 📊 My GitHub Contributions & Stats
+Senior bir mühendis olarak sürekliliğe ve etkiye önem veriyorum. İşte rakamlarla teknik aktivitem:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mongodb,redis,rabbitmq,docker,kubernetes,linux,git,nodejs,js&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADINIZ]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[KULLANICI_ADINIZ]&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[KULLANICI_ADINIZ]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Private + Public)
-
+### 🏆 Achievements & Badges
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fsk&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fsk&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsk&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=[KULLANICI_ADINIZ]&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
 
 ---
 
-## 🔥 Contribution Activity
+### 🛠 Tech Stack & Tools
+Senior seviyesinde uzmanlaştığım ve projelerimde tercih ettiğim ekosistem:
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fsk&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## ⏱️ Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fsk&theme=tokyonight&layout=compact&hide_border=true" />
-</p>
+- **Backend:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- **Infrastructure:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+- **Architecture:** Microservices, Event-Driven Design, Distributed Systems
 
 ---
 
-## ✍️ Writing
+### 📈 Detailed Activity
+Senior mühendislik sadece kod yazmak değil, aynı zamanda düzenli bir geliştirme disiplinidir.
 
-<p align="center">
-  <a href="https://furkankulaksiz68.medium.com">
-    <img src="https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium" />
-  </a>
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[KULLANICI_ADINIZ]&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🔗 Connect
+### 📫 Let's Connect
+- 💼 **LinkedIn:** [linkedin.com/in/kullaniciadi](https://linkedin.com/in/kullaniciadi)
+- 📝 **Medium/Blog:** [blog-linkiniz.com]
+- 📧 **Contact:** [email@adresiniz.com]
 
-<p align="center">
-  <a href="https://linkedin.com/in/frknshnklksz">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/frknshnklksz">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
-  </a>
-  <a href="https://www.instagram.com/frknshnklksz/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <strong>
-    Still learning. Still building. Still shipping.
-  </strong>
+<p align="right">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
